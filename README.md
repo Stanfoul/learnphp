@@ -5,3 +5,5 @@ codeacademy
 start learning
 24.10.2015
 2 lessons compleate at mobile
+25.10/2015
+play lol %(
