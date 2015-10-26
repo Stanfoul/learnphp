@@ -7,3 +7,6 @@ start learning
 2 lessons compleate at mobile
 25.10/2015
 play lol %(
+26/10/2015
+play lol(
+
